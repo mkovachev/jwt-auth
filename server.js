@@ -10,10 +10,6 @@ const posts = [
   {
     username: 'Peter',
     title: 'Post 1'
-  },
-  {
-    username: 'John',
-    title: 'Post 2'
   }
 ]
 
